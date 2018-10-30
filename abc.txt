@@ -2,5 +2,5 @@ file from local lit
 
 new file in github
 
-HELLO! - This is John and this is the master branch
+HELLO! - This is John and this is the hotfix branch
 
